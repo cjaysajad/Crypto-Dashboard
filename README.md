@@ -1,18 +1,18 @@
-# Crypto Dashboard
+#Crypto Dashboard
 Real-time crypto analytics dashboard.
-## Features
+##Features
 - Portfolio overview
 - Price charts
 - Market metrics
 - News aggregator
 
-## Tech Stack
+##Tech Stack
 
 - React
 - TypeScript
 - Chart.js
 - CoinGecko API
 
-## License
+##License
 
 MIT
