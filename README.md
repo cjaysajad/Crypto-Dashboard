@@ -1,4 +1,4 @@
-#Crypto Dashboard
+Crypto Dashboard
 Real-time crypto analytics dashboard.
 ##Features
 - Portfolio overview
