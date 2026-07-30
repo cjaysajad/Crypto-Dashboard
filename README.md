@@ -5,10 +5,12 @@ Real-time crypto analytics dashboard.
 - Price charts
 - Market metrics
 - News aggregator
+- 
 ##Tech Stack
 - React
 - TypeScript
 - Chart.js
+- 
 - CoinGecko API
 ##License
 MIT
