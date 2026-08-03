@@ -9,7 +9,6 @@ Real-time crypto analytics dashboard.
 - React
 - TypeScript
 - Chart.js
-
 - CoinGecko API
 ##License
 MIT
